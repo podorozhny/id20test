@@ -1,1 +1,1 @@
-id20 test project
+id20 yii2 test project
